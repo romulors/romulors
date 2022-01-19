@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romulors!
 - 👀 I’m interested in Medical Physics, Software Development and Business Management.
 - 🌱 I’m currently learning Software Engineering and Process Management.
-- 💞️ I’m looking to collaborate on Dicom-RT, Radiotherapy Software, daily-use tools and alike!
+- 💞️ I’m looking to collaborate on Web Design, Radiotherapy Software, daily-use tools and alike!
 - 📫 How to reach me: romulors at github and romulo.ciencia at gmail.com.
